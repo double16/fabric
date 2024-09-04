@@ -1,2 +1,3 @@
 # fabric
-fabric patterns
+patterns for the https://github.com/danielmiessler/fabric AI tool.
+
