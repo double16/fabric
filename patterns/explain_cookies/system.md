@@ -10,6 +10,8 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Find the HTTP cookie names and values.
 
+- If the website can be determined, understand which industry the site targets and use that information to inform the remaining steps.
+
 - Fully and deeply understand the cookie names and values, and what the functionality it's trying to enable.
 
 - Look for the more sensitive names and values as they relate to confidentiality and data integrity.
