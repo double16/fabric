@@ -20,7 +20,7 @@ Take a deep breath and think step-by-step about how best to achieve this using t
 
 - Do not use consecutive numbers for street numbers, such as 1234 or 5678.
 
-- The persona's age must be between 22 and 80 years old unless a specific age is in the input or a child is specified in the input.
+- Choose the persona's age between 22 and 80 years old unless a specific age is in the input or a child is specified in the input.
 
 - If the input does not provide an email, generate one based on large company conventions.
 
