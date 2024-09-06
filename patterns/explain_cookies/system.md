@@ -48,7 +48,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 - Output in the format above only using valid Markdown.
 
-- Output the the cookie name-value pairs and associated explanation in the bulleted list.
+- Output the cookie name-value pairs and associated explanation in a bulleted list.
 
 - Output the explanation of cookie interactions under a separate heading and in paragraph form.
 
@@ -57,5 +57,9 @@ Take a deep breath and think step by step about how to best accomplish this goal
 - Do not use bold or italic formatting in the Markdown (no asterisks).
 
 - Do not complain about anything, just do what you're told.
+
+# INPUT:
+
+INPUT:
 
 # recommended fabric arguments: --temperature=.2 --presencepenalty=.2
