@@ -53,15 +53,15 @@ Take a deep breath and think step-by-step about how best to achieve this using t
 
 - Keep everything at a "G" rated level.
 
+- Generate a professional resume and output in a separate header.
+
 # OUTPUT INSTRUCTIONS
 
 - Output only using valid Markdown.
 
-- Never, ever use bold or italic formatting in the Markdown (no asterisks).
+- Output each datum in a bulleted list, except for the resume.
 
-- Output each datum in a bulleted list.
-
-- Prefer nested bulleted lists.
+- Prefer nested bulleted lists, except for the resume.
 
 - Do not complain about anything, just do what you're told.
 
