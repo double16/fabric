@@ -43,7 +43,7 @@ Take a deep breath and think step-by-step about how best to achieve this using t
 
 - Create a job title, company, and work location. Only choose a city for the work location, no street address. The work location must be within 1 hour of driving of the city of residence.
 
-- Create personal interests for the persona. Examples are pets, camping, shopping, sports, or movies.
+- Create personal interests for the persona. Examples are pets, camping, shopping, sports, or movies. If a website is given, use the industry of the web site to inform one of the personal interests.
 
 - Write a personal bio in 2-4 sentences using informal style. Use some slang appropriate for the age group.
 
