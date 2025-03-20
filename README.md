@@ -8,6 +8,15 @@ Review the pattern for fabric options such as temperature.
 $ cat input.txt | fabric --pattern explain_cookies --temperature=.2 --presencepenalty=.2 --stream
 ```
 
+## install
+
+```shell
+$ git clone https://github.com/double16/fabric.git
+
+$ ln -s fabric/patterns/explain_cookies ~/.config/fabric/patterns/
+$ ln -s fabric/patterns/create_persona ~/.config/fabric/patterns/
+```
+
 ## explain_cookies
 
 Input is:
